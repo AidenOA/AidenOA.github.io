@@ -1,0 +1,88 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+.Pepper-image {
+  border-style: double;
+  border-color:blueviolet;
+  border-width: large;
+  width: 250px;
+  height:190px;
+  margin: 10px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50px;
+}
+
+.Seed-image {
+  border-style: double;
+  border-color:blueviolet;
+  border-width: large;
+  width: 250px;
+  height:190px;
+  margin: 10px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50px;
+}
+  
+  .Rell-image {
+    border-style: double;
+    border-color:blueviolet;
+    border-width: large;
+    width: 250px;
+    height:190px;
+    margin: 10px;
+    border-color: #3196a3;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50px;
+}
+    
+.Map-image {
+      border-style: double;
+      border-color:blueviolet;
+      border-width: large;
+      width: 250px;
+      height:190px;
+      margin: 10px;
+      border-color: grey;
+      border-width: 5px;
+      border-style: solid;
+      border-radius: 50px;
+}
+      
+      
+.Face-image {
+        border-style: double;
+        border-color:blueviolet;
+        border-width: large;
+        width: 250px;
+        height:190px;
+        margin: 10px;
+        border-color: #2a9a4d;
+        border-width: 5px;
+        border-style: solid;
+        border-radius: 50px;
+}
+        
+.Fight-image {
+          border-style: double;
+          border-color:blueviolet;
+          border-width: large;
+          width: 250px;
+          height:190px;
+          margin: 10px;
+          border-color: #bf3f3f;
+          border-width: 5px;
+          border-style: solid;
+          border-radius: 50px;
+}
